@@ -5,8 +5,15 @@
 <h2>
 Install the extension on Chrome
 </h2>
+
 <p>
-On chrome:
+From the Chrome Store
+https://chrome.google.com/webstore/detail/kendo-mvvm-inspector/fffmfifciekjfbepekljnhapikieebfj
+</p>
+
+
+<p>
+Using the source code locally on your machine
 <ul>
 <li>
 Open Tools > Extensions
